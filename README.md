@@ -94,3 +94,5 @@ If you like this project:
 🍴 Fork it
 
 🛠️ Contribute
+
+Since you are in your 3rd year of BCA, I recommend hosting this project for free on GitHub Pages.
