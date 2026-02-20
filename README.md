@@ -89,6 +89,8 @@ Linkedin: https://www.linkedin.com/in/suvendu-pal/
 
 GitHub: https://github.com/Suvendu-Pal
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <h2>⭐ Support</h2>
 
 If you like this project:
