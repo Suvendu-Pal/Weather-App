@@ -84,7 +84,9 @@ Suvendu Pal
 
 💼 Aspiring Frontend Developer
 🚀 Passionate about UI/UX & Web Apps
+
 Linkedin: https://www.linkedin.com/in/suvendu-pal/
+
 GitHub: https://github.com/Suvendu-Pal
 
 ⭐ Support
